@@ -1,10 +1,9 @@
 # Angular 5 app with universal and lazy-loading
 
-This project is mainly focused on integrating server side rendering of angular app
-with help of universal.Also lazy loading of modules.For more information please visit following links for clarity
+This project is mainly focused on integrating **server side rendering** of angular app
+with help of universal.Also **lazy loading** of modules.For more information please visit following links for clarity
 
-* [Angular Universal: server side rendering](https://angular.io/guide/universal)
-Above link gives you idea of concepts what server side rendering means. How angular renders the pages on server instead of browser and things happening behind scenes. But they don't mention the content of **main.server.ts** which in this repo gives the contents
+* [Angular Universal: server side rendering](https://angular.io/guide/universal) - Above link gives you idea of concepts what server side rendering means. How angular renders the pages on server instead of browser and things happening behind scenes. But they don't mention the content of **main.server.ts** which in this repo gives the contents
 
 * [Heroku](https://devcenter.heroku.com/) - Deploying the app to cloud
 
