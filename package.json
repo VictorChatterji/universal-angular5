@@ -47,6 +47,8 @@
     "zone.js": "^0.8.4",
     "@types/node": "^6.0.45",
     "protractor": "~5.1.0",
+    "@types/jasmine": "~2.8.0",
+    "@types/jasminewd2": "^2.0.3"
   },
   "devDependencies": {
     "@angular/cli": "^1.6.6",
