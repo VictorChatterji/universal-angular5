@@ -51,8 +51,7 @@ WIP
 
 ## Deployment
 
-Follow heroku dev center for deployment of particular choice
-Deployed app can be viewed here: https://shrouded-retreat-16673.herokuapp.com/
+Follow heroku dev center for deployment of particular choice. Deployed app can be viewed here: https://shrouded-retreat-16673.herokuapp.com/
 
 ## Built With
 
