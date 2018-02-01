@@ -25,9 +25,7 @@ heroku cli
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+A step by step series of commands that tell you have to get a development env running
 
 ```
 git clone git@github.com:VictorChatterji/universal-angular5.git
